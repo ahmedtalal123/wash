@@ -1,0 +1,40 @@
+h1,h2{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    background-color: rgba(242, 245, 147, 0.3);
+    text-align: center;
+}
+
+button{
+    display: block;
+    padding: auto;
+    margin: auto;
+    text-align: center;
+}
+
+#p1{
+    text-align: center;
+    color: black;
+}
+
+header{
+    background-image: url(https://www.agipstation.de/assets/images/en-DE/services/Banner_CarWash_EN_2800x1200px.jpg);
+    background-repeat: no-repeat;
+    padding: 400px;
+}
+
+footer{
+    text-align: center;
+    background-color: brown;
+}
+
+#div3{
+    text-align: center;
+    background-color: rgba(242, 245, 147, 0.3);
+}
+
+#div5{
+    text-align: center;
+    background-color: rgba(242, 245, 147, 0.3);
+}
